@@ -1,0 +1,21 @@
+{
+  "KPlugin": {
+      "Name": "Steal Focus",
+      "Description": "When a window requires attention, it should usually steal focus instead of just hinting at it in the taskbar. For example when I open a folder in my IDE or a file in an Editor that is already opened. This fixes that.",
+      "Icon": "preferences-system-windows",
+      
+      "Authors": [
+          {
+              "Email": "70728036+maribox@users.noreply.github.com. ",
+              "Name": "Marius Bosler"
+          }
+      ],
+      "Id": "KDE-Focus-Stealer",
+      "Version": "1.0",
+      "License": "MIT",
+      "Website": "https://github.com/maribox/KDE-Focus-Stealer"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js",
+  "KPackageStructure": "KWin/Script"
+}
