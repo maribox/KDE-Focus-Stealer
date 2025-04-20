@@ -1,7 +1,7 @@
 {
   "KPlugin": {
       "Name": "Steal Focus",
-      "Description": "When a window requires attention, it should usually steal focus instead of just hinting at it in the taskbar. For example when I open a folder in my IDE or a file in an Editor that is already opened. This fixes that.",
+      "Description": "Let window requiring attention steal focus.",
       "Icon": "preferences-system-windows",
       
       "Authors": [
